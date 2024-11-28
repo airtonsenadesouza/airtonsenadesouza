@@ -1,6 +1,6 @@
 ### 🌐 Selecione o idioma:
 
-[🇧🇷 Português](README.pt.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
 
 ---
 
