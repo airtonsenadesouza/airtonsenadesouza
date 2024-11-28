@@ -3,8 +3,7 @@
 [🇧🇷 Português](README.pt.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
 
 ---
-
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Mundo!;Eu+sou+Airton+Sena;Seja+muito+bem-vindo!)](https://git.io/typing-svg)**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I+am+Airton+Sena.;Welcome!)](https://git.io/typing-svg)
 
 ## 💻 Olá, mundo! 🌍
 
