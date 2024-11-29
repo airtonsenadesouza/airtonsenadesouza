@@ -1,7 +1,6 @@
 ### 🌐 Selecciona el idioma:
 
 [🇧🇷 Portugués](README.md) | [🇺🇸 Inglés](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
-
 ---
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=%C2%A1Hola%2C+Mundo!;Soy+Airton+Sena.;%C2%A1Bienvenido!)](https://git.io/typing-svg)**
 
