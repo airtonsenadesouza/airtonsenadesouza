@@ -27,6 +27,7 @@ Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto c
 </picture>
 
 ### 🛠️ Tecnologias que eu uso para desenvolvimento de aplicações web front-end! ⚡️
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,64 +42,6 @@ Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto c
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 > **Atenção:** A quantidade de tecnologias que eu domino é **desnecessariamente grande**. Pode ser até difícil de acompanhar! 👀
 ---
-
-#### 🌐 **Linguagens de Programação que Eu Uso:**
-
-| Linguagem   | Emojicons | Nível |
-|-------------|-----------|-------|
-| **HTML**    | 👑       | Iniciante |
-| **CSS**     | 💅       | Intermediário |
-| **JavaScript** | 🧙‍♂️✨ | Avançado |
-| **Python**  | 🤖☕     | Avançado |
-| **PHP**     | 🔧🖥     | Intermediário |
-| **C**       | 🕶       | Avançado |
-
----
-
-#### 🎨 **Frameworks e Bibliotecas que Faço Mágica Acontecer:**
-
-| Ferramenta       | Emojicons  | Nível     |
-|------------------|------------|-----------|
-| **ReactJS**      | ⚛️        | Avançado  |
-| **Node.js**      | 🌐        | Avançado  |
-| **Django**       | 🐍        | Intermediário |
-| **Laravel**      | 🚀        | Intermediário |
-| **Bootstrap**    | 💅        | Básico    |
-
----
-
-#### 🖥️ **Ferramentas e Tecnologias que Eu Também Uso:**
-
-- **Git** - Para versionamento de código (Eu sei, eu sou #1 nesse negócio de controle de versão!).
-- **Docker** - Porque quem não gosta de containerização? 🐳
-- **MySQL / PostgreSQL** - Bancos de dados relacionais, sempre em boa companhia! 🗄️
-- **MongoDB** - Para quem quer viver no futuro (não-relacional). 🛸
-- **AWS** - Porque eu gosto de estar na **nuvem**. ☁️
-- **Vercel** / **Netlify** - Para hospedagem e deploy contínuo de sites.
-
----
-
-### 🌍 **Olha o globo girando!** 🌍
-
-Eu sei, você ama efeitos legais! Então aqui está um **globo girando** para deixar tudo mais interessante! 🚀
-
-![Globo Girando](https://media.giphy.com/media/3o6MbsldYkfbv1mBti/giphy.gif)
-
----
-
-### 💥 Efeitos Especiais Ativados! 💥
-
-Se você pensou que estava só começando... **se prepare!** Porque a diversão acabou de começar! 🎉
-
-- **Animações com emoji:**
-  - ⏳ **Carregando...** *aguarde* ...
-  - 🎉 **Concluído!** Tudo está pronto para você!
-
----
-
-### 📈 **Barras de Progresso!** 🚀
-
-Diga-me o que está pronto e o que não está. Aqui vai uma barra de progresso para indicar como você se sente agora! 😉
 
 ```md
 [=========================-------] 80% Pronto! 😎
