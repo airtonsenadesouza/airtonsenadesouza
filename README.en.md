@@ -84,7 +84,7 @@ I am a **Full Stack Developer** (my resume is so packed it doesn’t fit here!) 
 - **Blockchain** and **Big Data**.
 
 ### 🏆 **Achievements & Certifications**
-- **Certification**: [MBA - Software Engineering] — [Centro Universitário do Norte] - [2023-2024]
+- **Certification**: [MBA - Software Engineering] — [Centro Universitário do Norte] - [2023-2025]
 - **Certification**: [Master's in Big Data and Business Intelligence] — [ENEB – Escuela de Negocios Europea de Barcelona] - [2022-2023]
 - **Certification**: [Control and Automation Engineering] — [Centro Universitário do Norte] - [2017-2022]
 - **Certification**: [Mechanical Technician] — [Instituto Federal de Educação, Ciências e Tecnologia do Amazonas] - [2016-2018]
