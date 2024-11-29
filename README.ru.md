@@ -1,81 +1,102 @@
+### 🌐 Выберите язык:
 
-### 🌐 Selecione o idioma:
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
 
-[🇧🇷 Português](README.pt.md) | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
-
----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;%D0%AF+A%D0%B9%D1%80%D1%82%D0%BE%D0%BD+%D0%A1%D0%B5%D0%BD%D0%B0.;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!)](https://git.io/typing-svg)
 
-## 💻 Olá, mundo! 🌍
+## 💻 Привет, мир! 🌍
 
-**Eu sou Airton Sena de Souza, o desenvolvedor mais incrível que você já conheceu!** 💥  
-Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto conteúdo!) e meu objetivo é deixar todos ao meu redor **impressionados** com o meu talento!
+**Я Аиртон Сена де Соуза, самый удивительный разработчик, которого вы когда-либо встречали!** 💥  
+Я **Full Stack разработчик** (мой резюме настолько переполнено, что оно не помещается здесь!) и моя цель — впечатлить всех вокруг своим мастерством!
 
----
-
-### 🛠️ Tecnologias que eu uso, mas poderia usar ainda mais! ⚡️
-
-> **Atenção:** A quantidade de tecnologias que eu domino é **desnecessariamente enorme**. Pode ser até difícil de acompanhar! 👀
-
----
-
-#### 🌐 **Linguagens de Programação que Eu Uso:**
-
-| Linguagem   | Emojicons | Nível |
-|-------------|-----------|-------|
-| **HTML**    | 👑       | Iniciante |
-| **CSS**     | 💅       | Intermediário |
-| **JavaScript** | 🧙‍♂️✨ | Avançado |
-| **Python**  | 🤖☕     | Avançado |
-| **PHP**     | 🔧🖥     | Intermediário |
-| **C**       | 🕶       | Avançado |
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+380975521736)
+[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/airtonsenadesouza)
+[![VIBER](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+380975521736)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-sena-de-souza-7809a4191/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](AIRTONBRAM@GMAIL.COM)
+[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](AIRTON_PRIDE@GMAIL.COM)
 
 ---
 
-#### 🎨 **Frameworks e Bibliotecas que Faço Mágica Acontecer:**
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake.svg">
+</picture>
 
-| Ferramenta       | Emojicons  | Nível     |
-|------------------|------------|-----------|
-| **ReactJS**      | ⚛️        | Avançado  |
-| **Node.js**      | 🌐        | Avançado  |
-| **Django**       | 🐍        | Intermediário |
-| **Laravel**      | 🚀        | Intermediário |
-| **Bootstrap**    | 💅        | Básico    |
+### 🛠️ Технологии, которые я использую для разработки фронтенд веб-приложений! ⚡️
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
+### 🛠️ Технологии, которые я использую для разработки бэкенд веб-приложений! ⚡️
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+> **Внимание:** Количество технологий, которые я осваиваю, **невероятно велико**. Это может быть даже сложно для восприятия! 👀
+---
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=airtonsenadesouza&show_icons=true&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonsenadesouza&langs_count=6&theme=radical" />
+</div>
+
+#### 🌐 **Языки программирования, которые я использую:**
+
+| Язык         | Эмодзи   | Уровень   |
+|--------------|----------|-----------|
+| **HTML**     | 👑       | Начинающий |
+| **CSS**      | 💅       | Средний   |
+| **JavaScript** | 🧙‍♂️✨ | Продвинутый |
+| **Python**   | 🤖☕     | Продвинутый |
+| **PHP**      | 🔧🖥     | Средний   |
+| **C**        | 🕶       | Продвинутый |
 
 ---
 
-#### 🖥️ **Ferramentas e Tecnologias que Eu Também Uso:**
+#### 🎨 **Фреймворки и библиотеки, с которыми я творю магию:**
 
-- **Git** - Para versionamento de código (Eu sei, eu sou #1 nesse negócio de controle de versão!).
-- **Docker** - Porque quem não gosta de containerização? 🐳
-- **MySQL / PostgreSQL** - Bancos de dados relacionais, sempre em boa companhia! 🗄️
-- **MongoDB** - Para quem quer viver no futuro (não-relacional). 🛸
-- **AWS** - Porque eu gosto de estar na **nuvem**. ☁️
-- **Vercel** / **Netlify** - Para hospedagem e deploy contínuo de sites.
-
----
-
-### 🌍 **Olha o globo girando!** 🌍
-
-Eu sei, você ama efeitos legais! Então aqui está um **globo girando** para deixar tudo mais interessante! 🚀
-
-![Globo Girando](https://media.giphy.com/media/3o6MbsldYkfbv1mBti/giphy.gif)
+| Инструмент       | Эмодзи     | Уровень     |
+|------------------|------------|-------------|
+| **ReactJS**      | ⚛️        | Продвинутый |
+| **Node.js**      | 🌐        | Продвинутый |
+| **Django**       | 🐍        | Средний     |
+| **Laravel**      | 🚀        | Средний     |
+| **Bootstrap**    | 💅        | Начальный   |
 
 ---
 
-### 💥 Efeitos Especiais Ativados! 💥
+#### 🖥️ **Инструменты и технологии, которые я также использую:**
 
-Se você pensou que estava só começando... **se prepare!** Porque a diversão acabou de começar! 🎉
+- **Git** — Для контроля версий (Я знаю, я #1 в этом деле!).
+- **Docker** — Потому что кто не любит контейнеризацию? 🐳
+- **MySQL / PostgreSQL** — Реляционные базы данных, всегда в хорошей компании! 🗄️
+- **MongoDB** — Для тех, кто хочет жить в будущем (нереляционные базы данных). 🛸
+- **AWS** — Потому что я люблю быть в **облаке**. ☁️
+- **Vercel** / **Netlify** — Для хостинга и непрерывной доставки сайтов.
 
-- **Animações com emoji:**
-  - ⏳ **Carregando...** *aguarde* ...
-  - 🎉 **Concluído!** Tudo está pronto para você!
+### 🌱 **Чему я учусь сейчас?**
+- **Машинное обучение** на Python.
+- **Искусственный интеллект в Big Data** на Python.
+- **Блокчейн** и **Big Data**.
 
----
+### 🏆 **Достижения и сертификаты**
+- **Сертификат**: [MBA — Software Engineering] — [Centro Universitário do Norte] - [2023-2024]
+- **Сертификат**: [Магистратура по Big Data и Business Intelligence] — [ENEB – Escuela de Negocios Europea de Barcelona] - [2022-2023]
+- **Сертификат**: [Инженерия управления и автоматизация] — [Centro Universitário do Norte] - [2017-2022]
+- **Сертификат**: [Техник по механике] — [Институт Федерального образования, науки и технологий Амазонии] - [2016-2018]
 
-### 📈 **Barras de Progresso!** 🚀
+### 🎯 **Личные цели**
+- Вносить вклад в проекты с открытым исходным кодом.
+- Изучать новые технологии и фреймворки.
+- Помогать другим разработчикам и делиться знаниями!
 
-Diga-me o que está pronto e o que não está. Aqui vai uma barra de progresso para indicar como você se sente agora! 😉
+### 🧑‍💻 **Мой GitHub в цифрах**
+![GitHub followers](https://img.shields.io/github/followers/airtonsenadesouza?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/airtonsenadesouza?label=Stars&style=social)
 
-```md
-[=========================-------] 80% Pronto! 😎
+**Спасибо за посещение моего GitHub!** 🚀
