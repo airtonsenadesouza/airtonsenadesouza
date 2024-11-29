@@ -12,7 +12,12 @@
 Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto conteúdo!) e meu objetivo é deixar todos ao meu redor **impressionados** com o meu talento!
 
 ---
-https://github.com/airtonsenadesouza/airtonsenadesouza/actions/workflows/MAIN.yml
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🛠️ Tecnologias que eu uso, mas poderia usar ainda mais! ⚡️
 
