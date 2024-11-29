@@ -3,7 +3,7 @@
 [🇧🇷 Portugués](README.md) | [🇺🇸 Inglés](README.en.md) | [🇪🇸 Español](README.es.md) | [🇷🇺 Русский](README.ru.md)
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=%C2%A1Hola%2C+Mundo!;Soy+Airton+Sena.;%C2%A1Bienvenido!)](https://git.io/typing-svg)
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=%C2%A1Hola%2C+Mundo!;Soy+Airton+Sena.;%C2%A1Bienvenido!)](https://git.io/typing-svg)**
 
 ## 💻 ¡Hola, Mundo! 🌍
 
@@ -12,11 +12,9 @@ Soy un **desarrollador Full Stack** (¡mi currículum no cabe aquí de tanto con
 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+380975521736)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/airtonsenadesouza)
-[![VIBER](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+380975521736)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-sena-de-souza-7809a4191/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](AIRTONBRAM@GMAIL.COM)
-[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](AIRTON_PRIDE@GMAIL.COM)
-
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airtonbram@gmail.com)
+[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:airton_pride@hotmail.com)
 ---
 
 <picture align="center">
