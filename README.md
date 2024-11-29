@@ -26,10 +26,20 @@ Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto c
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/airtonsenadesouza/airtonsenadesouza/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 🛠️ Tecnologias que eu uso, mas poderia usar ainda mais! ⚡️
-
-> **Atenção:** A quantidade de tecnologias que eu domino é **desnecessariamente enorme**. Pode ser até difícil de acompanhar! 👀
-
+### 🛠️ Tecnologias que eu uso para desenvolvimento de aplicações web front-end! ⚡️
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
+### 🛠️ Tecnologias que eu uso para desenvolvimento de aplicações back-end! ⚡️
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+> **Atenção:** A quantidade de tecnologias que eu domino é **desnecessariamente grande**. Pode ser até difícil de acompanhar! 👀
 ---
 
 #### 🌐 **Linguagens de Programação que Eu Uso:**
