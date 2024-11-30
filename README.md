@@ -4,7 +4,7 @@
 ---
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=40&pause=1000&color=ADD8E6&background=FFCC0000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Mundo!;Eu+sou+Airton+Sena;Seja+muito+bem-vindo!)](https://git.io/typing-svg)**
 
-## 💻 Olá, mundo! 🌍
+## 💻 Olá, mundo!! 🌍
 
 **Eu sou Airton Sena de Souza, o desenvolvedor mais incrível que você já conheceu!** 💥  
 Eu sou um **desenvolvedor Full Stack** (meu currículo não cabe aqui de tanto conteúdo!) e meu objetivo é deixar todos ao meu redor **impressionados** com o meu talento!
